@@ -64,7 +64,7 @@ for i in range(1,no+1):
           globals()['b%s' % l].append(sum(h))       #appends the numbers to the desired lists
 
 
-print(list(b4))           #will show the list(b4) of first table
+#print(list(b4))           #will show the list(b4) of first table
 
 
 
