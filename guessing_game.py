@@ -47,7 +47,7 @@ for i in range(1,no+1):
   #print(globals()['b%s'%i])            #making new lists with 2**n as the first number i.e E11 element of the every table
   
   
-print(b4) 
+#print(b4) 
   
   
 
