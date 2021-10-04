@@ -97,9 +97,6 @@ def make_table(_list):
 # - - - - - End of Printing Tables - - - - -
 #
 
-# make_table([100,2,3,10,2,2000,1,2,1])
-# make_table(dict_of_numbers['B0'])
-# fillup([1,2,3], 3)
 
 #
 # - - - - - MAIN BODY OF PROGRAM - - - -
